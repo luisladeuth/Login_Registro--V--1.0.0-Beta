@@ -26,3 +26,5 @@ Limitaciones Visuales: El diseño visual de la aplicación es bastante simple y 
 Características Limitadas: La aplicación es un sistema de registro y acceso básico y no incluye características adicionales que se encuentran comúnmente en aplicaciones de cafetería, como la administración de menús y pedidos.
 
 Necesidad de Pruebas Adicionales: Antes de implementarse en un entorno de producción, la aplicación requeriría pruebas adicionales de seguridad y rendimiento para garantizar su robustez.
+# Gracias 
+¡Gracias por visitar mi repositorio en GitHub! Esperamos que esta aplicación sea de utilidad para ti. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con migo. ¡Hasta la próxima!
